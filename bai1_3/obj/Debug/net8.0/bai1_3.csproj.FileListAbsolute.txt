@@ -1,0 +1,14 @@
+D:\Mucchinh\C#\bai1_3\bin\Debug\net8.0\bai1_3.exe
+D:\Mucchinh\C#\bai1_3\bin\Debug\net8.0\bai1_3.deps.json
+D:\Mucchinh\C#\bai1_3\bin\Debug\net8.0\bai1_3.runtimeconfig.json
+D:\Mucchinh\C#\bai1_3\bin\Debug\net8.0\bai1_3.dll
+D:\Mucchinh\C#\bai1_3\bin\Debug\net8.0\bai1_3.pdb
+D:\Mucchinh\C#\bai1_3\obj\Debug\net8.0\bai1_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mucchinh\C#\bai1_3\obj\Debug\net8.0\bai1_3.AssemblyInfoInputs.cache
+D:\Mucchinh\C#\bai1_3\obj\Debug\net8.0\bai1_3.AssemblyInfo.cs
+D:\Mucchinh\C#\bai1_3\obj\Debug\net8.0\bai1_3.csproj.CoreCompileInputs.cache
+D:\Mucchinh\C#\bai1_3\obj\Debug\net8.0\bai1_3.dll
+D:\Mucchinh\C#\bai1_3\obj\Debug\net8.0\refint\bai1_3.dll
+D:\Mucchinh\C#\bai1_3\obj\Debug\net8.0\bai1_3.pdb
+D:\Mucchinh\C#\bai1_3\obj\Debug\net8.0\bai1_3.genruntimeconfig.cache
+D:\Mucchinh\C#\bai1_3\obj\Debug\net8.0\ref\bai1_3.dll

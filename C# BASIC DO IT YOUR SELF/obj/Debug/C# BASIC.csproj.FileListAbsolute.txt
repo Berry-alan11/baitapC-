@@ -1,0 +1,7 @@
+D:\Mucchinh\C#\C# BASIC\bin\Debug\C# BASIC.exe.config
+D:\Mucchinh\C#\C# BASIC\bin\Debug\C# BASIC.exe
+D:\Mucchinh\C#\C# BASIC\bin\Debug\C# BASIC.pdb
+D:\Mucchinh\C#\C# BASIC\obj\Debug\C# BASIC.csproj.AssemblyReference.cache
+D:\Mucchinh\C#\C# BASIC\obj\Debug\C# BASIC.csproj.CoreCompileInputs.cache
+D:\Mucchinh\C#\C# BASIC\obj\Debug\C# BASIC.exe
+D:\Mucchinh\C#\C# BASIC\obj\Debug\C# BASIC.pdb
